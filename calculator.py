@@ -18,5 +18,5 @@ class Calculator:
         print(subtract(x,y))
     if z == 3:
         print(mul(x,y))
-    if z == 1:
+    if z == 4:
         print(div(x,y))
