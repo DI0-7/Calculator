@@ -1,2 +1,2 @@
 def div(x, y):
-    return x / y
+    return x/y
